@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/webbf-auth/webbf-auth.iml" filepath="$PROJECT_DIR$/webbf-auth/webbf-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-back/webbf-back.iml" filepath="$PROJECT_DIR$/webbf-back/webbf-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-common/webbf-common.iml" filepath="$PROJECT_DIR$/webbf-common/webbf-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-dao/webbf-dao.iml" filepath="$PROJECT_DIR$/webbf-dao/webbf-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-doc/webbf-doc.iml" filepath="$PROJECT_DIR$/webbf-doc/webbf-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-front/webbf-front.iml" filepath="$PROJECT_DIR$/webbf-front/webbf-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-parent.iml" filepath="$PROJECT_DIR$/webbf-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webbf-service/webbf-service.iml" filepath="$PROJECT_DIR$/webbf-service/webbf-service.iml" />
+    </modules>
+  </component>
+</project>

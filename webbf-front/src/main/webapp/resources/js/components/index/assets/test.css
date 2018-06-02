@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+    width: 970px;
+    margin: 0 auto;
+}
+
+#mainbody {
+    margin-top: 15px;
+    position: relative;
+    width: 100%;
+    /*overflow: hidden;*/
+}
+
+#left {
+    width: 110px;
+    float: left;
+    margin-right: 13px;
+}
+
+#mid {
+    width: 650px;
+    border: 1px solid #999;
+    float: left;
+}
+
+#right {
+    border: 1px solid #999;
+    position: absolute;
+    left: 790px;
+    float: left;
+    /*width: 177px;*/
+    /*margin-left: 16px;*/
+}
+/*.thumbnail > img, .thumbnail a > img {*/
+    /*display: block;*/
+    /*max-width: 100%;*/
+    /*height: auto;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+/*}*/
